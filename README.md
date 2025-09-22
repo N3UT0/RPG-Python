@@ -1,2 +1,2 @@
 # RPG
-Meu primeiro RPG feito em python
+Este é meu primeiro projeto de RPG em Python, feito com o objetivo de aprender lógica de programação, classes, dicionários e a sintaxe da linguagem. O jogo é um RPG de texto interativo com sistema de combate e escolhas que afetam a história. O projeto utiliza bibliotecas como PIL para exibir imagens e random para a mecânica de jogo. É um projeto inicial, mas foi fundamental para solidificar meu conhecimento em Python.
